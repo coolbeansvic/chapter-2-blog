@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2024-06-06-my-first-real-post/",
+    "title": "My first real post",
+    "description": "This is my first real post for real.",
+    "author": [],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\nTitle\nHello!\n\n\n\n",
+    "preview": {},
+    "last_modified": "2024-06-06T16:42:14+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "HDAT9800 chapter 2",
     "description": "This is my blog for chapter 2.",
@@ -14,6 +26,6 @@
     "contents": "\n\n\n\n",
     "preview": {},
     "last_modified": "2024-06-06T16:26:01+10:00",
-    "input_file": "welcome.knit.md"
+    "input_file": {}
   }
 ]
