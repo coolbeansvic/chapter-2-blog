@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "HDAT9800 chapter 2",
+    "description": "This is my blog for chapter 2.",
+    "author": [
+      {
+        "name": "Victoria Pham",
+        "url": "https://github.com/coolbeansvic"
+      }
+    ],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2024-06-06T16:06:04+10:00",
+    "input_file": "welcome.knit.md"
+  }
+]
