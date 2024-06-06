@@ -1,0 +1,22 @@
+---
+title: "My first real post"
+description: |
+  This is my first real post for real. 
+date: 06-06-2024
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+## Title 
+
+Hello! 
